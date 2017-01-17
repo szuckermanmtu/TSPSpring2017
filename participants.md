@@ -9,6 +9,8 @@ Alex Stanage
 
 Brandon Johnson
 
+Brandon Wichman
+
 Brendan Hansknecht
 
 Brett Kurzawa
