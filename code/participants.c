@@ -20,7 +20,7 @@ main (int argc, char *argv[])
   int i = 0;
 
   printf ("%02d: Jacob Gould\n",++i);
-  
+
   printf ("%02d: Brendan Hansknecht\n",++i);
 
   printf ("%02d: Stephane Zuckerman\n", ++i);
@@ -60,7 +60,7 @@ main (int argc, char *argv[])
   printf ("%02d: Nicholas Schweikart\n", ++i);
 
   printf ("%02d: Nicholas Waara\n", ++i);
-  
+
   printf ("%02d: James Giannunzio\n", ++i);
 
   printf ("%02d: Brandon Johnson\n", ++i);
@@ -70,14 +70,18 @@ main (int argc, char *argv[])
   printf ("%02d: Dane Jensen\n", ++i);
 
   printf ("%02d: Kate Weber\n", ++i);
-  
+
   printf ("%02d: Parker Russcher\n", ++i);
 
   printf ("%02d: Ryanne Sutton\n", ++i);
-  
+
   printf ("%02d: Brandon Wichman\n", ++i);
 
+<<<<<<< HEAD
   printf ("%02d: Samantha Verran\n", ++i);
+=======
+  printf ("%02d: Caden Sumner\n", ++i);
+>>>>>>> origin/master
 
   printf ("There are %i participants.\n", i);
 
