@@ -1,0 +1,5 @@
+Name: Parker Russcher
+email: pjrussch@mtu.edu
+github: prusscher
+
+student
