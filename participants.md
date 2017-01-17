@@ -15,6 +15,8 @@ Brendan Hansknecht
 
 Brett Kurzawa
 
+Caden Sumner
+
 Collin Walker
 
 Dane Jensen
@@ -49,7 +51,7 @@ Nic Fosdick
 
 Nick Waara
 
-Nic Schweikart 
+Nic Schweikart
 
 Parker Russcher
 
