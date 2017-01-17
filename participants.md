@@ -27,6 +27,8 @@ Dylan Brosseau
 
 Eamonn Daley
 
+Jacob Gould
+
 James Giannunzio
 
 Jay Honnold
