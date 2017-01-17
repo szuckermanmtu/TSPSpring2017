@@ -77,11 +77,9 @@ main (int argc, char *argv[])
 
   printf ("%02d: Brandon Wichman\n", ++i);
 
-<<<<<<< HEAD
   printf ("%02d: Samantha Verran\n", ++i);
-=======
+
   printf ("%02d: Caden Sumner\n", ++i);
->>>>>>> origin/master
 
   printf ("There are %i participants.\n", i);
 
