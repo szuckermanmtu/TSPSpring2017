@@ -1,0 +1,5 @@
+Name: Ian Jones
+email: iajones@mtu.edu
+github: iajones1
+
+Computer Science
