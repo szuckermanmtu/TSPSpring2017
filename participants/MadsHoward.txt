@@ -1,0 +1,5 @@
+Name: Mads Howard
+email: mhoward@mtu.edu
+github: Mads-Claire
+
+second year computer science student
