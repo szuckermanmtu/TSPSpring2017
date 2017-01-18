@@ -94,6 +94,8 @@ main (int argc, char *argv[])
   printf ("%02d: Karan Desai\n", ++i);
 
   printf ("%02d: Riley Mulford\n", ++i);
+  
+  printf ("%02d:Kevin Usher\n", ++i);
 
   printf ("There are %i participants.\n", i);
 
