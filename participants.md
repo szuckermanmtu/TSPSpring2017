@@ -17,6 +17,8 @@ Brett Kurzawa
 
 Caden Sumner
 
+Christian LaCourt
+
 Collin Walker
 
 Dane Jensen
