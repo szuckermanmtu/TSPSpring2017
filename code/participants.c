@@ -86,6 +86,8 @@ main (int argc, char *argv[])
   printf ("%02d: Eric Moore\n", ++i);
 
   printf ("%02d: Christian LaCourt\n", ++i);
+  
+  printf ("%02d: Mary Flood\n", ++i);
 
   printf ("There are %i participants.\n", i);
 
