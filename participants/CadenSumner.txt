@@ -1,0 +1,5 @@
+Name: Caden Sumner
+Email: cjsumner@mtu.edu
+Github: Ghosts
+
+Description: I'm a second year CS / Psychology student.

@@ -15,17 +15,25 @@ Brendan Hansknecht
 
 Brett Kurzawa
 
+Caden Sumner
+
+Christian LaCourt
+
 Collin Walker
 
 Dane Jensen
 
 Darren Wiltse
 
+David Musiel
+
 Derek Burrell
 
 Dylan Brosseau
 
 Eamonn Daley
+
+Eric Moore
 
 Jacob Gould
 
@@ -49,10 +57,12 @@ Nic Fosdick
 
 Nick Waara
 
-Nic Schweikart 
+Nic Schweikart
 
 Parker Russcher
 
 Piper Dougherty
 
 Ryanne Sutton
+
+Samantha Verran
