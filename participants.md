@@ -29,6 +29,8 @@ Dylan Brosseau
 
 Eamonn Daley
 
+Eric Moore
+
 Jacob Gould
 
 James Giannunzio
