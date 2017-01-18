@@ -51,6 +51,8 @@ Jared Bizeau
 
 Jay Honnold
 
+Jesse Moore
+
 Jo Taylor
 
 Jordan Kieltyka
