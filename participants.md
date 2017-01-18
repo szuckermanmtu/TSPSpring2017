@@ -45,6 +45,8 @@ Jacob Gould
 
 James Giannunzio
 
+Jared Bizeau
+
 Jay Honnold
 
 Jo Taylor
