@@ -23,6 +23,8 @@ Collin Walker
 
 Dane Jensen
 
+Daniel Schuen
+
 Darren Wiltse
 
 David Musiel
@@ -52,6 +54,8 @@ Josh Fosdick
 Kate Weber
 
 Kavan Ferguson
+
+Kevin Usher
 
 Marissa Walther
 
