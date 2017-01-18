@@ -7,6 +7,8 @@ Alejandro-Jeronimo Ayala-Perez
 
 Alex Stanage
 
+Brady Opsahl
+
 Brandon Johnson
 
 Brandon Wichman
