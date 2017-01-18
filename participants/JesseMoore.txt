@@ -1,0 +1,5 @@
+Name: Jesse Moore
+email: jessem@mtu.edu
+github: jessejm
+
+3rd year CS student
