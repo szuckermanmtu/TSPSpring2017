@@ -9,15 +9,23 @@ Alex Stanage
 
 Brandon Johnson
 
+Brandon Wichman
+
 Brendan Hansknecht
 
 Brett Kurzawa
+
+Caden Sumner
+
+Christian LaCourt
 
 Collin Walker
 
 Dane Jensen
 
 Darren Wiltse
+
+David Musiel
 
 Derek Burrell
 
@@ -26,6 +34,10 @@ De'Shawn Presley
 Dylan Brosseau
 
 Eamonn Daley
+
+Eric Moore
+
+Jacob Gould
 
 James Giannunzio
 
@@ -41,11 +53,20 @@ Kavan Ferguson
 
 Marissa Walther
 
+Mary Flood
+
+Matthew Wenzel
+
 Nic Fosdick
 
 Nick Waara
 
-Nic Schweikart 
+Nic Schweikart
+
+Parker Russcher
 
 Piper Dougherty
 
+Ryanne Sutton
+
+Samantha Verran
