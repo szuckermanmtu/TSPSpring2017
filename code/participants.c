@@ -90,6 +90,20 @@ main (int argc, char *argv[])
   printf ("%02d: Christian LaCourt\n", ++i);
   
   printf ("%02d: Mary Flood\n", ++i);
+  
+  printf ("%02d: Karan Desai\n", ++i);
+
+  printf ("%02d: Riley Mulford\n", ++i);
+  
+  printf ("%02d:Kevin Usher\n", ++i);
+  
+  printf ("%02d: Jordan Kieltyka\n", ++i);
+  
+  printf ("%02d: Daniel Schuen\n", ++i);
+
+  printf ("%02d: Utkarsh Mishra\n", ++i);
+  
+  printf ("%02d: Ian Jones\n", ++i);
 
   printf ("There are %i participants.\n", i);
 

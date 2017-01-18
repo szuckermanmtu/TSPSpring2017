@@ -23,6 +23,8 @@ Collin Walker
 
 Dane Jensen
 
+Daniel Schuen
+
 Darren Wiltse
 
 David Musiel
@@ -37,6 +39,8 @@ Eamonn Daley
 
 Eric Moore
 
+Ian Jones
+
 Jacob Gould
 
 James Giannunzio
@@ -45,11 +49,17 @@ Jay Honnold
 
 Jo Taylor
 
+Jordan Kieltyka
+
 Josh Fosdick
+
+Joshua Hansen
 
 Kate Weber
 
 Kavan Ferguson
+
+Kevin Usher
 
 Marissa Walther
 
@@ -67,6 +77,10 @@ Parker Russcher
 
 Piper Dougherty
 
+Riley Mulford
+
 Ryanne Sutton
+
+Sam Meluch
 
 Samantha Verran
