@@ -45,6 +45,8 @@ Jay Honnold
 
 Jo Taylor
 
+Jordan Kieltyka
+
 Josh Fosdick
 
 Kate Weber
