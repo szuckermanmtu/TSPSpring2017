@@ -1,0 +1,5 @@
+Name: Maxwell Simonowicz
+email: mmsimono@mtu.edu
+github: MaxSimo
+
+3rd year computer science student
