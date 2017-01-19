@@ -1,0 +1,5 @@
+Name: Ryanne Sutton
+email: rlsutton@mtu.edu
+github: twilem
+
+student

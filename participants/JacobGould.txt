@@ -1,0 +1,5 @@
+Name: Jacob Gould
+Email: jcgould@mtu.edu
+Github: Baimbekka
+
+Description: I'm a second year CS student taking Team Software.
