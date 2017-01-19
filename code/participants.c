@@ -20,6 +20,7 @@ main (int argc, char *argv[])
   int i = 0;
 
   printf ("%02d: Alex David\n", ++i);
+
   printf ("%02d: Jacob Gould\n",++i);
 
   printf ("%02d: Brendan Hansknecht\n",++i);
@@ -121,6 +122,8 @@ main (int argc, char *argv[])
   printf ("%02d: Tyler Schlomer\n", ++i);
 
   printf("%02d: Alec Hitchiner\n", ++i);
+
+  printf("%02d: Connor Przybyla\n", ++i);
   
   printf ("There are %i participants.\n", i);
 
