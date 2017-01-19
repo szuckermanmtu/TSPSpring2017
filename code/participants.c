@@ -125,6 +125,8 @@ main (int argc, char *argv[])
 
   printf("%02d: Connor Przybyla\n", ++i);
   
+  printf("%02d: Leah Teng\n", ++i); 
+  
   printf ("There are %i participants.\n", i);
 
   return 0;
