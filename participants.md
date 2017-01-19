@@ -5,6 +5,8 @@ Adam Reichanadter
 
 Alejandro-Jeronimo Ayala-Perez
 
+Alex David
+
 Alex Stanage
 
 Brady Opsahl
@@ -91,6 +93,7 @@ Sam Meluch
 
 Samantha Verran
 
+Tony Powell
+
 Zachary Paris
 
-Tony Powell
