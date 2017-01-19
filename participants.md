@@ -27,6 +27,8 @@ Christian LaCourt
 
 Collin Walker
 
+Connor Przybyla
+
 Dane Jensen
 
 Daniel Schuen
