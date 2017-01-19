@@ -3,7 +3,11 @@
 
 Adam Reichanadter
 
+Alec Hitchiner
+
 Alejandro-Jeronimo Ayala-Perez
+
+Alex David
 
 Alex Stanage
 
@@ -22,6 +26,8 @@ Caden Sumner
 Christian LaCourt
 
 Collin Walker
+
+Connor Przybyla
 
 Dane Jensen
 
@@ -67,6 +73,8 @@ Kavan Ferguson
 
 Kevin Usher
 
+Leah Teng
+
 Marissa Walther
 
 Mary Flood
@@ -91,6 +99,8 @@ Sam Meluch
 
 Samantha Verran
 
-Zachary Paris
-
 Tony Powell
+
+Tyler Schlomer
+
+Zachary Paris

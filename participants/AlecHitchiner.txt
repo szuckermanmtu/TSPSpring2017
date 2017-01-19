@@ -1,0 +1,6 @@
+Name: Alec Hitchiner
+email: awhitchi@mtu.edu
+github: supereater14
+
+I am a third-year computer science student.
+

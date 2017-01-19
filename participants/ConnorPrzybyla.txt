@@ -1,0 +1,5 @@
+name: Connor Przybyla
+email: cgprzyby@mtu.edu
+GitHub: cgprzyby
+
+I am a third year undergraduate studying software engineering.
