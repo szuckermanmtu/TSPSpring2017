@@ -47,6 +47,8 @@ Eamonn Daley
 
 Eric Moore
 
+Gabe Giddings
+
 Ian Jones
 
 Jacob Gould
