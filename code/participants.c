@@ -128,6 +128,8 @@ main (int argc, char *argv[])
   printf("%02d: Connor Przybyla\n", ++i);
   
   printf("%02d: Leah Teng\n", ++i); 
+
+  printf("%02d: Max Simonowicz\n", ++i);
   
   printf ("There are %i participants.\n", i);
 
