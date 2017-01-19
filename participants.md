@@ -3,6 +3,8 @@
 
 Adam Reichanadter
 
+Alec Hitchiner
+
 Alejandro-Jeronimo Ayala-Perez
 
 Alex David
