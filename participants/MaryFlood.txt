@@ -1,0 +1,5 @@
+Name: Mary Flood
+email: mflood@mtu.edu
+github: mfloodmtu
+
+Computer Science student

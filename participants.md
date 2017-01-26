@@ -61,4 +61,3 @@ Piper Dougherty
 
 Ryanne Sutton
 
-Samantha Verran

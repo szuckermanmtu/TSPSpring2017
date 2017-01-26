@@ -1,0 +1,5 @@
+Name: Daniel Schuen
+email: dfschuen@mtu.edu
+github: Daniel Schuen
+
+Computer Science student at Michigan Technological University

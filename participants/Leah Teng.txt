@@ -1,0 +1,5 @@
+Name: Leah Teng
+email: jiaxint@mtu.edu
+github: jiaxint
+
+A student majoring in computer science.

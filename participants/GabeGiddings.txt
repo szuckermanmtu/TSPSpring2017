@@ -1,0 +1,5 @@
+Name: Gabe Giddings
+email: jggiddin@mtu.edu
+github: johngabe
+
+Third Year Computer Science Major

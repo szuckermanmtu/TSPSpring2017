@@ -19,6 +19,10 @@ main (int argc, char *argv[])
 {
   int i = 0;
 
+  printf ("%02d: Alex David\n", ++i);
+
+  printf ("%02d: Gabe Giddings\n", ++i);
+
   printf ("%02d: Jacob Gould\n",++i);
 
   printf ("%02d: Brendan Hansknecht\n",++i);
@@ -51,6 +55,8 @@ main (int argc, char *argv[])
 
   printf ("%02d: James Straw\n", ++i);
 
+  printf ("%02d: Joshua Hansen\n", ++i);
+
   printf ("%02d: Eamonn Daley\n", ++i);
 
   printf ("%02d: Dylan Brosseau\n", ++i);
@@ -71,11 +77,15 @@ main (int argc, char *argv[])
 
   printf ("%02d: Kate Weber\n", ++i);
 
+  printf ("%02d: De'Shawn Presley\n",++i);
+
   printf ("%02d: Parker Russcher\n", ++i);
 
   printf ("%02d: Ryanne Sutton\n", ++i);
 
   printf ("%02d: Brandon Wichman\n", ++i);
+
+  printf ("%02d: Matthew Wenzel\n", ++i);
 
   printf ("%02d: Samantha Verran\n", ++i);
 
@@ -83,6 +93,46 @@ main (int argc, char *argv[])
   
   printf ("%02d: Mads Howard\n", ++i);
 
+  printf ("%02d: Eric Moore\n", ++i);
+
+  printf ("%02d: Christian LaCourt\n", ++i);
+  
+  printf ("%02d: Mary Flood\n", ++i);
+  
+  printf ("%02d: Karan Desai\n", ++i);
+
+  printf ("%02d: Riley Mulford\n", ++i);
+  
+  printf ("%02d:Kevin Usher\n", ++i);
+  
+  printf ("%02d: Jordan Kieltyka\n", ++i);
+  
+  printf ("%02d: Daniel Schuen\n", ++i);
+
+  printf ("%02d: Utkarsh Mishra\n", ++i);
+  
+  printf ("%02d: Ian Jones\n", ++i);
+
+  printf ("%02d: Jared Bizeau\n", ++i);
+  
+  printf ("%02d: Zachary Paris\n", ++i);
+  
+  printf ("%02d: Brady Opsahl\n",++i);  
+    
+  printf("%02d: Tony Powell\n", ++i);
+  
+  printf("%02d: Jesse Moore\n", ++i);
+
+  printf ("%02d: Tyler Schlomer\n", ++i);
+
+  printf("%02d: Alec Hitchiner\n", ++i);
+
+  printf("%02d: Connor Przybyla\n", ++i);
+  
+  printf("%02d: Leah Teng\n", ++i); 
+
+  printf("%02d: Max Simonowicz\n", ++i);
+  
   printf ("There are %i participants.\n", i);
 
   return 0;

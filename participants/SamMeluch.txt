@@ -1,0 +1,5 @@
+Name: Sam Meluch
+email: sameluch@mtu.edu
+github: Chef-Banks
+
+2nd Year Computer Science Major
